@@ -1,0 +1,2 @@
+streamlit==0.66.0
+google_api_python_client==1.12.1
